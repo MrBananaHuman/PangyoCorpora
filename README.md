@@ -24,12 +24,12 @@ If you use Pangyo Corpora in your research or projects, please consider citing t
 
 ```
 @misc{pangyo-corpora,
-  title = {Pangyo Corpora - Multi-Language Learning Dataset},
-  author = {Seonghyun Kim},
+  title = {Pangyo Corpora - Knowledge Transfer in Multilingual LLMs Based on Code-Switching Corpora},
+  author = {Seonghyun Kim, Kanghee Lee, Minsu Jeong, Jungwoo Lee},
   year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub Repository},
-  howpublished = {\url{https://}},
+  publisher = {KOREAN INSTITUTE OF INFORROATTONSCIENTISTSANDENGINEERS},
+  journal = {The 35th Annual Conference on Human & Cognitive Language Technology},
+  howpublished = {\url{https://sites.google.com/view/hclt2023}},
 }
 ```
 
