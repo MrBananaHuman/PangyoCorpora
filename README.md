@@ -1,4 +1,4 @@
-# PangyoCopora
+# PangyoCorpora
 
 This repository is dedicated to training a multi-lingual Language Model (LLM) that can understand and generate text in multiple languages.
 
